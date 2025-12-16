@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash
 
 #NOTE: Kali frequently complains after only days or weeks that it is missing some type of keyring
 #or GPG component to update using apt. This script addresses that and allows those updates to happen
